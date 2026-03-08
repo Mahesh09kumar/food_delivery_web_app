@@ -7,6 +7,7 @@ import Cart from "./Pages/cart/Cart";
 import PlaceOrder from "./Pages/placeOrder/PlaceOrder";
 import Footer from "./components/footer/Footer";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
+import { Analytics } from "@vercel/analytics/next";
 
 const App = () => {
 	const [showLogin, setShowLogin] = useState(false);
@@ -22,6 +23,7 @@ const App = () => {
 				</Routes>
 			</div>
 			<Footer />
+			<Analytics />
 		</>
 	);
 };
