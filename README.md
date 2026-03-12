@@ -105,10 +105,14 @@ npm run dev
 
 ## 📸 Screenshots
 
-![Home Page](./public/ScreenShot/Screenshot%202026-03-12%20105745.png)![Home Page](./public/ScreenShot/Screenshot%202026-03-12%20110533.png)
+![Home Page](./public/ScreenShot/Screenshot%202026-03-12%20105745.png)
 ![Cart Page]()
-![Order Page](./public/ScreenShot/Screenshot%202026-03-12%20110553.png)![Order Page](./public/ScreenShot/Screenshot%202026-03-12%20105833.png)
 
+![Order Page](./public/ScreenShot/Screenshot%202026-03-12%20105833.png)
+<p align="center">
+  <img src="./public/ScreenShot/Screenshot%202026-03-12%20110533.png" width="45%">
+  <img src="./public/ScreenShot/Screenshot%202026-03-12%20110553.png" width="45%">
+</p>
 ---
 
 ## 🎯 Learning Outcomes
