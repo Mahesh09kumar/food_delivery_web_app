@@ -109,9 +109,10 @@ npm run dev
 ![Cart Page]()
 
 ![Order Page](./public/ScreenShot/Screenshot%202026-03-12%20105833.png)
+
 <p align="center">
-  <img src="./public/ScreenShot/Screenshot%202026-03-12%20110533.png" width="50%">
-  <img src="./public/ScreenShot/Screenshot%202026-03-12%20110553.png" width="50%">
+  <img src="./public/ScreenShot/Screenshot%202026-03-12%20110533.png" width="49%">
+  <img src="./public/ScreenShot/Screenshot%202026-03-12%20110553.png" width="49%">
 </p>
 ---
 
